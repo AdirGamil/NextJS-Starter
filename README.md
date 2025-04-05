@@ -40,8 +40,8 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/AdirGamil/nextjs-starter.git
-   cd nextjs-starter
+   git clone https://github.com/AdirGamil/NextJS-Starter.git
+   cd NextJS-Starter
 
    ```
 
