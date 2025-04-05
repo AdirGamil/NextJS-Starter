@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js 15 TailwindCSS TypeScript Starter ⚡
 
-## Getting Started
+This Next.js 15 StarterKit is a modern boilerplate designed to accelerate your development with **Next.js 15 App Router**, **TypeScript**, and **TailwindCSS v4**. Built by **AdirG**, it offers a clean and scalable foundation for building fast, responsive, and accessible web applications.
 
-First, run the development server:
+## 🎥 Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Next.js 15 StarterKit Demo](https://res.cloudinary.com/dhweqnxgd/image/upload/v1743880187/starter_ad8wex.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 15 App Router** – Powered by the latest routing system with layouts, loading states, and server components.
+- **TailwindCSS v4** – Utility-first styling for fast and flexible UI development.
+- **TypeScript** – Full support for type safety and modern development practices.
+- **Responsive Design** – Mobile-first approach with dark mode support.
+- **ESLint & Prettier** – Code formatting and linting out of the box.
+- **Folder Structure** – Clean, scalable, and ready for production.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+This starter project includes:
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework:** Next.js 15
+- **Styling:** TailwindCSS v4
+- **Language:** TypeScript
+- **Tooling:** ESLint, Prettier, PostCSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To use this starter, follow these steps:
 
-## Deploy on Vercel
+### 📦 Prerequisites
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Make sure you have the following installed:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Node.js (v18 or later)
+- npm or pnpm
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/AdirGamil/nextjs-starter.git
+   cd nextjs-starter
+
+   ```
+
+   ## 📫 Connect with Me
+
+- <img width="20" height="20" src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email"/> [Email](mailto:2000adir2000@gmail.com)
+- <img width="20" height="20" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/> [GitHub](https://github.com/AdirGamil)
+- <img width="20" height="20" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/adirg/)
+
+Let's code something awesome together! 🚀
